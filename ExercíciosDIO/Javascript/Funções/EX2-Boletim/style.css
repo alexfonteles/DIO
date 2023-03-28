@@ -1,0 +1,15 @@
+
+- Todas as notificações devem ter:
+- espaçamento interno de 20 pixels;
+- arredondamento das bordas de 5 pixels;
+- tamanho da fonte 18 pixels;
+- margem de 10 pixels;
+- texto centralizado;
+
+- A mensagem de erro deve ter:
+- cor do texto #a94442
+- cor de fundo #f2dede
+
+- A mensagem de sucesso deve ter:
+- cor do texto #3c763d
+- cor de fundo #dff0d8
